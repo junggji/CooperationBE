@@ -1,8 +1,8 @@
-package sample.Controller;
+package com.example.cooperationbe.controller;
 
-import sample.Controller.Entity.User;
-import sample.Controller.inDto.UserRequestinDto;
-import sample.Controller.service.CudService;
+import sample.Controller.entity.User;
+import com.example.cooperationbe.indto.UserRequestinDto;
+import com.example.cooperationbe.service.CudService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

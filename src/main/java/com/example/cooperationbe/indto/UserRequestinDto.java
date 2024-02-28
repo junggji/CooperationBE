@@ -1,4 +1,4 @@
-package sample.Controller.inDto;
+package com.example.cooperationbe.indto;
 
 import lombok.Data;
 

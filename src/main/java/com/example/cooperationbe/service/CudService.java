@@ -1,7 +1,7 @@
-package sample.Controller.service;
+package com.example.cooperationbe.service;
 
-import sample.Controller.Entity.User;
-import sample.Controller.Repository.JpaRepository;
+import sample.Controller.entity.User;
+import com.example.cooperationbe.repository.JpaRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

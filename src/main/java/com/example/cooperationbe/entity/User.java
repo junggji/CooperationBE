@@ -1,4 +1,4 @@
-package sample.Controller.Entity;
+package sample.Controller.entity;
 
 import lombok.Data;
 import jakarta.persistence.*;
